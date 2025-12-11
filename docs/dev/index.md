@@ -31,7 +31,7 @@ next:
 
 ### 创建新页面
 
-1. [单击此处链接，在`docs/FAQ/`文件夹创建新文件](https://github.com/typst-doc-cn/guide/new/master/docs/FAQ)
+1. [单击此处链接，在`docs/FAQ/`文件夹创建新文件](https://github.com/zhtyp/zhtyp.github.io/new/main/docs/FAQ)
 2. 填写以`.md`结尾的文件名，例如`chinese-bold.md`
 3. 后续步骤与“修改已有页面”相同
 
