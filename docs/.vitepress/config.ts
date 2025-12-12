@@ -19,7 +19,7 @@ import TypstRender from './typst_render';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: 'Typst 中文社区导航',
-  base: ['cloudflare', 'netlify'].includes(PROFILE) ? '/' : '/guide/',
+  base: ['default', 'cloudflare', 'netlify'].includes(PROFILE) ? '/' : '/guide/',
   lang: 'zh-CN',
   description:
     '本文档收录了日经问题（QQ 群中经常有人问的问题），以及官方文档和小蓝书中未提到的一些零碎的使用技巧。',
