@@ -22,7 +22,7 @@
     "unocss": "^66.10.5",
     "vite": "^8.3.0",
     "vitepress": "2.0.0-alpha.17",
-    "vue": "^3.5.41",
+    "vue": "^3.5.43",
     "which": "^7.0.0"
   },
   "dependencies": {
